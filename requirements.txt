@@ -1,0 +1,17 @@
+# General
+aiohttp==3.9.5
+python-dotenv==1.0.1
+jupyter
+nbconvert
+
+# Website
+mkdocs-material
+
+# Azure
+azure-ai-inference
+azure-identity==1.17.1
+
+# Prompty
+prompty
+prompty[azure]
+
