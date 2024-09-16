@@ -2,6 +2,8 @@
 
 By [definition](https://prompty.ai), Prompty is _a new asset class and format for LLM prompts that aims to provide observability, understandability, and portability for developers._ In this workshop, we explore what this means from core concepts to prompty prototyping in a series of hands-on labs.
 
+![Prompty Sketchnote](./img/prompty-sketchnote.png)
+
 ## Learning Objectives
 
 The workshop is structured as a series of hands-on labs taking you from core concepts to prompt evaluation and composition, with code. On completion, you should be able to describe:
